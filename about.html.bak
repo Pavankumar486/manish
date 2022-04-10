@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/687aace59c.js" crossorigin="anonymous"></script>
+
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: blue;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: blue;
+  color: blue;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#customer manager">Customer Manager</a>
+  <a href="#home">Customers</a>
+  <a href="#orders">Orders</a>
+  <a href="#contact">About</a>
+  <a href="#about">Login</a>
+</div>
+
+<h1><i class="fas fa-info-circle">About me</i></h1>
+<br></br>
+<tr>
+
+Created by:
+<td><input style="border:0">Pradeep Chinchole</input></td>
+</tr>
+
+<br></br>
+<tr>
+GitHub:
+<td><input style="border:0">https://github.com/pradeepch82/HTML-CSS3</input></td>
+</tr>
+<br></br>
+<tr>
+Role:
+<td><input style="border:0">Front End Developer</input></td>
+</tr>
+<br></br>
+mobile:
+<input style="border:0">9158652627</input>
+
+
+  
+  
+
+
+</body>
+</html>
